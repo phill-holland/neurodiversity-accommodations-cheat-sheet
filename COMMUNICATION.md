@@ -31,7 +31,13 @@ Take this example, where a manager is talking to a member of their team;
 "Can you finished that off by tomorrow afternoon?"
 ```
 
-the bark is worse than the bite
+
+
+
+
+"the bark is worse than their bite"
+
+
 
 
 
@@ -56,7 +62,7 @@ even though people may use English as a primary language and the words sound Eng
 establishing preferences and respecting them
 
 Tasks need to be communicated concisely
-●Communication preferences may not be verbal
+●Communication preferences may not be verbal - ESTABLISH COMMS PREFERENCES, WRITTEN/VERBAL - other?? interpretive dance?
 ●Extra time may be needed to process information
 ●Having the camera on and making eye contact may be uncomfortable
 ●Try to avoid interruption people in mid-sentence
@@ -64,6 +70,17 @@ Tasks need to be communicated concisely
 
 Be patient, some people take longer to form sentences than others
 
+
+
+●Specify deadline dates directly
+●What you need and when
+●Bullet pointed list
+●Be literal, don’t imply
+●Try to avoid micromanaging
+●Be open to criticism that you may have communicated poorly
+●Avoid walls of text
+●Avoid meaningless small talk when it’s obvious you want something
+●Be open to different modes of preferred communications
 
 "This needs to be ready by tomorrow afternoon"
 
