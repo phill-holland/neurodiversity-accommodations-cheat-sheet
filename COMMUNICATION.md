@@ -1,5 +1,17 @@
 communicating effectively
 
+
+PROVIDE
+CLEAR INSTRUCTIONS
+
+verbal or written
+
+in-person, or remotely
+
+
+// *****
+
+
 Often during communication there is a lot of implied context, sub-text and references that are left unspoken between participants with an assumption that both sides understand that implied meaning - but this isn't always the case, even between neurotypicals as well as the neurodivergent.
 
 A person may be confident that are an effective communicator, perhaps because they are warm and friendly and talkative but under scrunity they may actually exchange very little useful information.  

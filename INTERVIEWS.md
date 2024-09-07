@@ -41,11 +41,13 @@
 
     - [ ] Allow for camera to be turned off
 
+    - [ ] Don't insist on a handshake
+
 
 - [ ] Give time for processing questions
 
         Offer clarification of questions, don't be upset if somebody asks for clarifications
-        
+
 
 - [ ] Ensure the interviewee has adequate amounts of breaks during the intreview
 

@@ -1,3 +1,5 @@
+# Setting up your office
+
 office environment survey/checklist
 
 open plan - link to supporting documents about
@@ -7,7 +9,7 @@ separate kitchen - for smells
 
 temperature controled
 
-is the lighting natural, too bright
+is the lighting natural, too bright, fluorescent
 
 quiet spaces to retreat from noises
 
