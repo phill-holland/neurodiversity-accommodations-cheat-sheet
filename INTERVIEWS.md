@@ -102,8 +102,12 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
 
 - [ ] Don't expect an immediate response
 
-        Don't discount a persons employeability by the speed at which they repsond to you, be patient
+        Don't discount a persons employeability by the speed at which they repsond to you, be patient, don't push with artifical deadlines.
 
+
+- [ ] be aware of communication preferences and differences
+
+        Some people don't like phone calls imemdiately after reaching out for a job application, most job application systyems provide initial chat messaging before moving onto to a verbal stage.
 
 # Advertisements
 

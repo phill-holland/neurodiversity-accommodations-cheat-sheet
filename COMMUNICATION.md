@@ -1,6 +1,21 @@
 communicating effectively
 
 
+- [ ] Try to USse unambigious language
+
+- [ ] Be happy to provide clarification when asked
+
+- [ ] be ware of communication preferences
+
+    not all comunication is verbal, also use something like slack or teams chat
+
+- [ ] Encourage camera ofgf activity
+
+
+PROVDE EXAMPLES OF AMBIGIOUS COMMUNICATIOn
+
+
+
 PROVIDE
 CLEAR INSTRUCTIONS
 

@@ -9,6 +9,10 @@ Detailed here are features of the modern office which may need to be correct to 
 
 - [ ] Travelling noise
 
+    Can you hear everything everybody else is doing on the office space?  This is bad for those with sensory disorders relating to noise, which can be draining and make it more difficult to concentrate.
+
+    Autistic people in noisy environments may struggle to identify a single voice, and hear everything all at once, it may give the illusion they cannot hear when in reality they cannot filter out one sound from another.
+
 - [ ] Quiet places of retreat
 
         Provide sensory rooms
