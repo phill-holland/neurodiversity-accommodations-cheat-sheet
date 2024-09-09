@@ -56,11 +56,31 @@
 
 # In-person interviews
 
-Ideally, intervierws should be conducted remotely
+Ideally, intervierws should be conducted remotely, if conducting in-person;
 
+- [ ] Don't insist on a handshake when meeting and saying goodbye
 
+        Old school interviewers would see this as a test of a person, how hard can they handshake, how welcoming is there handshake, this is an old out dated standard,  unwanted Physical contact can often be distressing to a person and serves no useful purpose.
 
+- [ ] Quiet room away from distractions
 
+        More modern offices can have glass walls, move the candidate chair with it's back facing the glass wall to avoid distractions. 
+
+        Ideally the room sohuld be aware from distraction smells, such as kitchens and resturants.
+
+- [ ] Be aware of meeting room lighting conditions
+
+        Offer to dim lights, or turn off to the candidate
+
+- [ ] Offer a drink and refreshments
+
+- [ ] Offer regular breaks
+
+        point out quiet zones of the office for the interviewee to retreat 
+
+- [ ] Provide detailed maps and directions to the office and interview location
+
+        Be as specific as possible, if theres a reception area be clear of this
 
 # Recruiters
 
