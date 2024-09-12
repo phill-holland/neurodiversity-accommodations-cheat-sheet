@@ -44,6 +44,8 @@ Creating a "test-your-metal" world and mentality where everbody is pushed & stre
 
 Somebodies value should be be judged by how well they can deal with being pushed to their limits and our acceptences of another persons should not be limited to how useful we think they are to society and ourselves.
 
+It is recommended that accommidations should be granted to everybody, just just the neurodiverse employees.
+
 In this document we cover adjusatments in the following AREAS;
 
 - office environment
@@ -63,7 +65,6 @@ In this document we cover adjusatments in the following AREAS;
 - ways of working
 
     Suggestions of accomidations and adjustments for the ND indivdual, that might go down like a tonne of bricks
-
 
 
 
