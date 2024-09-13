@@ -1,5 +1,10 @@
 # How to Schedule & host a Meeting
 
+CHALLENGE MEETING CULTURE AS MUCH AS POSSIBLE
+
+as a host, ensure the mneeting is focussed and doesn't go on a tangent. (assuming you can recognise a tangent!!!)
+
+
 Have I...?
 
 - [ ] Written a concise bullet pointed meeting description, describing the purpose of the meeting, the aims of the meetings and expected outcomes
@@ -88,38 +93,4 @@ Have I...?
         If it's clear the direction has been lost in a meeting, or goes off on a tangent, or reaches a summary quickly, end the meeting early, allow everybody to return to their jobs.  Do not allow the meeting to go on for longer than is required.
 
         Some people like to use this time for social chit-chat, but the host should give people the freedom to leave or engage in this if they wish, people sohuld not be frowned upon for wanting to leave early.
-
-
-
-CHALLENGE MEETING CULTURE AS MUCH AS POSSIBLE
-
-as a host, ensure the mneeting is focussed and doesn't go on a tangent. (assuming you can recognise a tangent!!!)
-
-
-// **********************
-
-culture in office
-
-meetings have to have a point?
-
-communicated successful the agenda?
-
-- purpose of meeting
-
-- outcome of meeting
-
-This gives people time to prepare, and also provides enough detail forf them to decide if theyh should attend or not
-
-
-
-enabling freedom not to attend if they feel they will not contribute anything useless, or learn anything useful
-
-record meetings for later
-
-meetings should have options to be attended remotely, and not mandatory in-person
-
-
-remote attendees should have the option to have the camera off (it doesn't mean they're not listening or paying attention)
-
-
 

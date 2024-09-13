@@ -1,13 +1,5 @@
 # purpose of this repo
 
-/*
-
-RATE EACH SUGGESTION BY HOW LIKELY IT IS TO BE ACCEPTED IN THE WORK PLACE
-
-SUGGSET CHEAP WAYS TO RESOLVE THESE ISSUES
-
-detail how expesnive it will be 
-*/
 
 This is designed for those in the work place wishing to educate themselves more on adjustments in the work place for the neurodiverse indivdual, or give ideas directly for the neurodiverse individual for ideas of what adjustments to ask for.
 

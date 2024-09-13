@@ -1,120 +1,101 @@
-communicating effectively
+# How To Communication Effectively
 
+- [ ] Avoid ambigious language
 
-- [ ] Try to USse unambigious language
+        *** provide an example of common poor language here ****
 
 - [ ] Be happy to provide clarification when asked
 
-- [ ] be ware of communication preferences
+        Do not be offended if somebody asks several times for clarification on the same points, do not assume with communication difficulties that it's entirely the other persons fault for not understanding, communication difficulties is the responsibility of both participants in the conversation
 
-    not all comunication is verbal, also use something like slack or teams chat
+- [ ] Ask about communication preferences
 
-- [ ] Encourage camera ofgf activity
+        Not all comunication is verbal, provide alternative options, such as text only chat, email, voice only calls
 
+- [ ] Keep focussed on a single topic during a conversation
 
-PROVDE EXAMPLES OF AMBIGIOUS COMMUNICATIOn
+        Context switching is difficult, not keeping focus during a meeting increases cognative load on the participants, be strict and maintain focus unless the topic for discussion has reached an end both parties mutually agree on.
 
+        A person with ADHD may flip between several subjects at once and potentially derail the conversation, but time and consideration still still be given to gauge if these tangent points are truely irrelevent to the conversation or building an argument to demonstrate and strengthen a point.
 
+-[ ] Do not insist people give you the answers to questions asked during a meeting
 
-PROVIDE
-CLEAR INSTRUCTIONS
+        Even if urgent, try to resist the urge to pressure for an answer to an issue immediately.
 
-verbal or written
+        A person may need time to process everything that has happened during a conversation, sometimes if an important decision needs to be made and they are rushed into a decision they can often make the incorrect decision, or agree to something that is not within their best interests.
 
-in-person, or remotely
+        An ND person can often be a people pleaser, efforts must be made to avoid pushing into saying "yes" to another task to complete, when in reality if they had time to think about it and reflect upon something, to realise saying "no" was a better choice for everybody to manage mutual responsibility.
 
+- [ ] Do not use accusatory language when a misunderstanding occurs
 
-// *****
+        Assigning blame to another for poor communication immediately creates a defensive position, esculating a discussion into an argument quickly, language such as "you misunderstood" or resorting to defensive mode when somebody doesn't understand your point will generate a poor reaction.
+        
+        Even when you believe you are explaining something simple, you may still not be doing a good job of communicating, resisting the urge to get frustrated and instead try to find alternative ways to get the point across.
 
+        "maybe I didn't quite explain that correctly" is a better phrase when confusion ensues, and then attempting to explain things in a different way (avoiding repeating again exactly what you said previous, just in a different tone) or find different ways of communicating other than verbal, for instance drawing a diagram.
 
-Often during communication there is a lot of implied context, sub-text and references that are left unspoken between participants with an assumption that both sides understand that implied meaning - but this isn't always the case, even between neurotypicals as well as the neurodivergent.
+- [ ] Do not interrupted people mid-sentence
 
-A person may be confident that are an effective communicator, perhaps because they are warm and friendly and talkative but under scrunity they may actually exchange very little useful information.  
+        Just don't.  It will be very upsetting to the ND mind, and won't be able to focus on anything else until they finish their sentence.
 
-Just because the two parties in a conversation made each other feel good does not mean they have effectively communicated what they needed to say.  Just because the outcome of a conversation was positive too, when perhaps one person asks another person to do a task and they complete it successfully, still does not validate the effectiveness of the communication.
+- [ ] Give time for difference speech cadences
 
-Context and meaning isn't always communicated during a single conversation, but often references many other previous conversations, often people develop their own ways of using the English language, referencing past shared events with single words and sound that mean very little to the casual external observer.   
+        People can speak slower, or need extra time to formulate a sentence, exercise patiences and try not to overload the other person with a swamp of words to fill in silences, silences are ok.
 
-These references and context don't just occur between two people in isloation, but can happen on a larger scale within society as a whole, and those references may never be spoken or shared amongst people formally, society has an abundance of unspoken rules that neurotypicallys follow naturally.
+        Do not assume a person with a slow speech pattern is less intelligent than yourself.
 
-In generalised society hidden meaning and context can be easier for a neurotypical person to pick up on, context can be gauged subconciously from other social cues that the neurodivergent person may not be able to read, this may include body language and facial expressions and reading how other people are reacting to the words being spoken.
+        In the context of a meeting & as a host, you should be responsible for controlling those who are quicker to answer questions, often immediately responses aren't the best considered options for selection;  however the responsibility for this lays with all meeting attendees.
 
+        Do not assume a person has finished talking if they have slightly longer delays between words than normal, avoid interrupting or ending their sentences with information they were about to divulge in due time.
 
-Communication differences and misunderstandings are usually placed at the fault of the neurodivergent person in the conversation when something is miscommunicated, but often the fault is rarely ever due to a single person, often the average person communicates intent and meaning and needs in a un-concise and indirect way.
+- [ ] Do not ask a question to a person than list optional answers
 
-Take this example;
+        If you're asking a question, you don't know the answer, give them space to think about hte question and provide an answer, it is not good practise to list a set of answers to your own question, literal thinkers will believe these are the only options, and none of them may be a correct answer.
 
-```
-"What do you think of my new dress?"
-```
+- [ ] Be concise
 
-This is a loaded question, it is a trap, the person asking the question is most likely not seeking an honest answer, they are fishing for a compliment, even if it's the most ugly dress in the world you lose the game if you say this out loud.  The literal meaning of the words spoken do not communicate this need for positive validation.  It is also an open ended question, lacking specifics, what specifically are you asking about the dress, do I like the colour and pattern?, the choice of fabric?, the way it is cut? 
+        Try to avoid sentences that don't communicate any detail, or avoid cliche sayings that have hidden meaning. (should probably explain this)
 
-The person asking the question has communicated badly about what they actually need from the other person.
+# Video Calls
 
-Take this example, where a manager is talking to a member of their team;
+- [ ] Reassure people and make them feel comfortable about turning off camera
 
-```
-"Can you finished that off by tomorrow afternoon?"
-```
+        a camera on encourages a person to engage in masking activities, such as eye contact, or resisting the urge to stim in a stressful situtation, such as rocking backwards and forwards or pacing the room.
 
+        Do not assume a person with their camera is absent from the meeting or not listening, exercise trust and reassurance.
 
+- [ ] Enable text chat
 
+- [ ] Enable transcriptions
 
+# Text Communication
 
-"the bark is worse than their bite"
+- [ ] Bullet Points
 
+        Consider reformatting all communicate into a bullet pointed list of items.
 
+- [ ] Bold Important Text
 
+        So a person can quickly scan a text block for just the important things they need to know.
 
+        usually in a work context, two things are the most important, "what do you need" and "when".
 
+- [ ] Avoid Walls Of Text
 
+        Break up sentences with extra spacing, logically organised into paragraphs communicating a single idea/point per paragraph.
 
-More frequently too, people may use 
+        Remove excessive words, strongly edit your text.
 
+- [ ] Dylexsic safe font
 
-neurotypically minds tend to pick up on those hidden meanings without having to be told directly, it comes naturally whilst the neurodivegent mind struggles because t
+        Comic Sans (for all the hate it gets) is a good font that is easier to read!  Also that other one, which bolds beginning and end characters.
 
+        Not just for dyslexics, this benefits everybody!
 
+        (suggest more fonts here)
 
+- [ ] Avoid unnessercary small talk
 
-"darmok and jalad at tangara"
-
-
-that built context may be shared amongst a large population of people that come naturally to the neurotypical
-
-
-even though people may use English as a primary language and the words sound English
-
-establishing preferences and respecting them
-
-Tasks need to be communicated concisely
-●Communication preferences may not be verbal - ESTABLISH COMMS PREFERENCES, WRITTEN/VERBAL - other?? interpretive dance?
-●Extra time may be needed to process information
-●Having the camera on and making eye contact may be uncomfortable
-●Try to avoid interruption people in mid-sentence
-
-
-Be patient, some people take longer to form sentences than others
-
-
-
-●Specify deadline dates directly
-●What you need and when
-●Bullet pointed list
-●Be literal, don’t imply
-●Try to avoid micromanaging
-●Be open to criticism that you may have communicated poorly
-●Avoid walls of text
-●Avoid meaningless small talk when it’s obvious you want something
-●Be open to different modes of preferred communications
-
-"This needs to be ready by tomorrow afternoon"
+        It's ok to not start a message with "hello, how are you?" - if you're not wanting a detailed answer to this question, do not ask the question.  Is it ok to send a message and jump right into want you need to ask.
 
 
-COMMUNICATION PREFERENCES
-
-spoken
-written
-
-in song form
