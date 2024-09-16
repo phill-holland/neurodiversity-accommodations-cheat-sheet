@@ -108,3 +108,5 @@
         ND's will take a long time to respond to message, several days if ever at all.  It does not mean they do not care about you or what you have asked about.
 
         Messages can be a source of anixety and stress, often formulating exactly the correct response with all the nuance detail required is hard work, more so the more immportant a message may be, depending on the person asking.
+
+        Respect the need for alone time! (unless urgent)
