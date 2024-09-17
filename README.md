@@ -1,3 +1,7 @@
+# Who am I?
+
+I am not a trained medical professional!
+
 # purpose of this repo
 
 

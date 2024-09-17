@@ -103,7 +103,7 @@
 
 # Personal Comms
 
-- [ ] Text Messages May Take Ages To Get Responded to
+- [ ] Text Messages May Take Days To Get Responded To, If At All
 
         ND's will take a long time to respond to message, several days if ever at all.  It does not mean they do not care about you or what you have asked about.
 
