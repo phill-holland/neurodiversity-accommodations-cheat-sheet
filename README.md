@@ -2,6 +2,20 @@
 
 I am not a trained medical professional!
 
+
+WHY 
+
+State low autistic employment rates
+
+# Who is this for?
+
+ADHD Autism, employees and employers
+
+I found ther was'nt a detgailed playbook for ND accomodations and standards, of things to ask for and to adjust to.
+
+
+
+
 # purpose of this repo
 
 
