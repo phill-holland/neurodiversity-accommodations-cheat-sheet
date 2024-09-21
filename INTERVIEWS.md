@@ -3,7 +3,6 @@
 State statistics here. why is a job interview more difficult for the ND person?
 
 
-
 - [ ] Ensure all attendess to job interviews have a copy of the questions that will be asked before hand
 
         Job interviews tend to be articifally scenerios , and often the only thing a job interview does is test to see if a person is good at job interviews, and not if they'll be suited towards the job role, neurodiverse people tend to be terrible at job interviews due to this artifical construct.
@@ -100,18 +99,27 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
 
         Don't immediately insist on a phone call after making initial contact with the potential interviewee, consider different communication preference methods, be more amenable to the person
 
-- [ ] gives detgails to accomodations for remote working for disabiilities, publish clearly and publicy
+- [ ] gives details to accomodations for remote working for disabiilities, publish clearly and publicy
 
         IF you're advertising for hyrid or office work, ensure thowse with disaibilityes will not be put off because accomdiations have not been publish and reasonable adsjustments.  **right-to-work
 
 - [ ] Don't expect an immediate response
 
-        Don't discount a persons employeability by the speed at which they repsond to you, be patient, don't push with artifical deadlines.
+        Don't discount a persons employability by the speed at which they repsond to you, be patient, don't push with artifical deadlines.
 
+        Often those whom are autistic are part at a disadvantage, needing extra time to decide if they want the job or not, and whether to apply or not.  Crafting the perfect response can be difficult and it takes time. 
 
 - [ ] be aware of communication preferences and differences
 
         Some people don't like phone calls imemdiately after reaching out for a job application, most job application systyems provide initial chat messaging before moving onto to a verbal stage.
+
+- [ ] Make application process as simple as possible
+
+        A majority of application websites have their own web forms for filling in sections of experience details, often forcing an applicant to repeat the process (some offer AI CV interpreters to help, but these rarely ever work 100% effectively)
+
+        Forcing needless repeative work is likely to put off applications, when they've spent a lot of time formatting a well detailed CV.
+
+- [ ] Avoid generic questions such as "why do you want to work for X company?"
 
 # Advertisements
 
@@ -128,3 +136,9 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
         Often a job advertisement has desitable traits, either these are part of the job, or they are not, this is variable inconcise list subject to the whim of the hiring party, such a list makes it more difficult to understand the rules of hiring.
 
         Consider reducing this to a single list of essential traits, make a firm decision about what you do and don't want in an employee.
+
+- [ ] Be concise in job description
+
+        An autistic indivdual will find it difficult to read in-between the lines and will avoid applying for a job if the details are not concise and if they do not match well with their skillsets, when in reality a job may be flexible with the advertised skillset.  
+        
+        Generic job descriptions could likely put off highly qualified individuals.
