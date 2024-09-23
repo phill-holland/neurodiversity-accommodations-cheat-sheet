@@ -1,31 +1,34 @@
-A neurodiverse team member might do a whole weeks work in a single afternoon!  it's important to support their way of working 
-
+# Ways of working
 
 - [ ] Flexi-time
 
-    Define a core set of working hours and give trust to your employees to work their full hours how they choose
+        Define a core set of working hours and give trust to your employees to work their full hours how they choose.
 
+        Consider if core hours need to be specified at all given the type of industry and work the company operate in, if a company is more open with it's working hours and pool of potential employees a wider net of core hours may be of high benefit to the business, having people working cover a general longer working day as a group.
 
 - [ ] In-office flexibilty arrival times
 
-    To avoid public transport ruish hhour times, which provide a stresful over stimulating exerpeince
-
+        To avoid public transport ruish hhour times, which provide a stresful over stimulating exeperience to the neurodivergent, they can often be exhausted just from the commute, before the working day has even started.
 
 - [ ] Allow options for remote working
 
-    All meetings should have the option to be remotely dialed in from
-
+        All meetings should have the option to be remotely dialed in from, even if there is a preference for an in-person meeting, there will always be exceptions to this rule, such as sickness or home repsonbilities that are inflexible.
 
 - [ ] Offer hybrid/fully remote options
 
+        Fully remote should be the default preference, with well stated reasons why office working is required on certain days.
+
+        Core hours should be stated trusting the employees to adhere to those but still enable them to have flexible working hours.
+
+        Some neurodivergent people however may be more comfortable working late hours, consideration should be carefully assessed to whether this is viable for your workplace or not, first instinct may be to have this accomodation rejected, even if practical realities make it entire reasonable to support.
+
+        Don't be afraid to suggest compromises and trial periods for different working hours.
 
 - [ ] Provide quiet sensory rooms
 
+        Spaces for no talking, no noises, adequate lighting, away from smells
 
-        spaces for no talking, no noises, adequate lighting, away from smells
-
-
-- [ ] Encvourage regualar breaks
+- [ ] Encourage regualar breaks
 
         keep sacred times scared, i.e. lunch time
 
@@ -37,7 +40,7 @@ A neurodiverse team member might do a whole weeks work in a single afternoon!  i
 
         Encourage a person and reassuring them they've already done enough promotes balance in the work place.
 
-- [ ] Mtaining opersonal daily structure
+- [ ] Maintaining opersonal daily structure
 
         Help them create structure, don't repeatedly challenge a persons structure which can cause stress, such as breaking regular routines
 

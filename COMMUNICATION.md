@@ -2,7 +2,15 @@
 
 - [ ] Avoid ambigious language
 
-        *** provide an example of common poor language here ****
+        A concise and unambigious style of communications is often difficult to achieve, those who likely believe they are good communicators may still communicate poorly.
+
+        An example may be;
+
+        ```
+        Let's meet after lunch 
+        ```        
+
+        This statement is open to interpretation and is too wide open to be concise 
 
 - [ ] Be happy to provide clarification when asked
 
@@ -36,7 +44,10 @@
 
 - [ ] Do not interrupted people mid-sentence
 
-        Just don't.  It will be very upsetting to the ND mind, and won't be able to focus on anything else until they finish their sentence.
+        Interruptions mid-sentence can be very disturbing, whilst neurotypical minds might be able to recover from an interuption mid-sentence it will likely be more disruptive to the neurodivegent mind, often causing them to forget their train of thought and unable to recover from the interuption.
+
+        It's also important to wait for extra time to ensure a person has finished speaking before jumping in, often neurodivergent people can have different speech patterns, it might not be obvious the difference between the end of a sentence compared to a pause for thought whilst trying to formulate the next part of the sentence.
+
 
 - [ ] Give time for difference speech cadences
 
@@ -54,19 +65,36 @@
 
 - [ ] Be concise
 
-        Try to avoid sentences that don't communicate any detail, or avoid cliche sayings that have hidden meaning. (should probably explain this)
+        Try to avoid sentences that don't communicate any detail, or avoid cliche sayings that have hidden meaning. (I should probably elaborate on this)
 
 # Video Calls
 
 - [ ] Reassure people and make them feel comfortable about turning off camera
 
-        a camera on encourages a person to engage in masking activities, such as eye contact, or resisting the urge to stim in a stressful situtation, such as rocking backwards and forwards or pacing the room.
+        A camera on may encourage a person to engage in masking activities, such as forcing eye contact, or resisting the urge to stim in a stressful situtation, such as rocking backwards and forwards or pacing the room, which can help regulate thoughts and emotions and anxiety.
 
         Do not assume a person with their camera is absent from the meeting or not listening, exercise trust and reassurance.
 
 - [ ] Enable text chat
 
+        Be open to all forms of communications and as a meeting host you should regular check the text messages during a meeting.
+
+        Somebody who consistently contributes via text should not be negatively viewed, however some consideration should be given to ensuring those how are more vocal and quick to respond aren't controlling or driving the meeting in a certain direction without allowing space for input from all attendess of the meeting.
+
 - [ ] Enable transcriptions
+
+        Sometimes it can difficult to hear over a video call, having live transcriptions enabled helps ensure adequate & concise communications and also provides a quick to read historical record of what was said during the meeting for those unable to attend.
+
+- [ ] Avoid talking all at once
+
+        With audio sensory issues, it's often difficult for an autistic person to focus on a single voice, a meeting host should also act as an arbitorer between contributors to ensure voices don't overlap during a call.
+
+- [ ] Mute yourself if in a noisy room
+
+        With audio sensory issues an autistic person may struggle to isolate one noise from another finding it difficult to listen to soembody talking whilst there is also distracting background noises.
+
+        It's important attendees should find a quiet space free from background noise to conduct calls, failing that ideal attendees should be self aware enough to mute themselves when not talking.
+
 
 # Text Communication
 

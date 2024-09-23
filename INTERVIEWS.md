@@ -59,7 +59,7 @@ State statistics here. why is a job interview more difficult for the ND person?
 
 # In-person interviews
 
-Ideally, intervierws should be conducted remotely, if conducting in-person;
+Ideally, interviews should be conducted remotely, if conducting in-person;
 
 - [ ] Don't insist on a handshake when meeting and saying goodbye
 
@@ -120,6 +120,8 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
         Forcing needless repeative work is likely to put off applications, when they've spent a lot of time formatting a well detailed CV.
 
 - [ ] Avoid generic questions such as "why do you want to work for X company?"
+
+        Often people on the spectrum are extremely honest and won't know how to answer this question, questions like this may serve no useful function and often just an open invitation to lie to all applicants regardless of neurotypes.
 
 # Advertisements
 

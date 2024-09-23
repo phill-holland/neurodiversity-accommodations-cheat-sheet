@@ -1,10 +1,5 @@
 # How to Schedule & host a Meeting
 
-CHALLENGE MEETING CULTURE AS MUCH AS POSSIBLE
-
-as a host, ensure the mneeting is focussed and doesn't go on a tangent. (assuming you can recognise a tangent!!!)
-
-
 Have I...?
 
 - [ ] Written a concise bullet pointed meeting description, describing the purpose of the meeting, the aims of the meetings and expected outcomes

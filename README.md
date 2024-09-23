@@ -89,9 +89,10 @@ Your employers behaviour may not be fully in-line with the law of your country, 
 
 You may be in the position where you also have to be the one educating them on the subject of neurodiversity.
 
-Autism and neurodiversity understanding varies dramatically from country-to-country, it's important you use your bests judgement related to your country and work place to protect yourself and your interests in the best way possible.
+Autism and neurodiversity understanding varies dramatically from country-to-country, it's important you use your bests judgement related to your country and work place, it's unfortunate somebody wqith autism for example would need to withheld a disclosure of the condition to others, but sometimes it is required to protect yourself and your interests in the best way possible. 
 
 ## Training and education
 
-*** Link to some people willing to provide this for employers ***
+It is recommended you send your employees on training course for the understanding of neurodiverse staff members, both senior and non-senior team members, all could potentially benefit from an increased understanding into the ways different people think and behave, with a need to challenge poor social stereotypes relating to conditions such as autism and ADHD.
 
+Several companies can provide coashing and training relating to this area, it is a benefit to all in encouraging understanding providing a net positive in the way your companies hires and treats it's employees.
