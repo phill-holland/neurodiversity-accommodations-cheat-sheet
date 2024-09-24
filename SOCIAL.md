@@ -8,6 +8,6 @@
 
 - [ ] Mandatory team days
 
-        Mandatory team days should come with the same requirements and accomodations normally applied to the neurodivergent person through a normal working day.
+        Mandatory team days should come with the same requirements and accommodations normally applied to the neurodivergent person through a normal working day.
 
-        For example if a team day occurs in a different space compared to the office, efforts should be made similar to the office accomomdations, with the need for quiet rooms and to be flexible when supporting sensory needs, a team day can often be very noise and overstimulating, with a huge emphasis on socialising and team acitivties it can be very exhausting, requiring the need for down time, such as several days of having to be alone after the event just to recharge.
+        For example if a team day occurs in a different space compared to the office, efforts should be made similar to the office accommodations, with the need for quiet rooms and to be flexible when supporting sensory needs, a team day can often be very noise and overstimulating, with a huge emphasis on socialising and team activities it can be very exhausting, requiring the need for down time, such as several days of having to be alone after the event just to recharge.
