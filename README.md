@@ -60,7 +60,7 @@ There is a widespread lack of understanding of what an autistic individual may n
 
 > e.4 There is a wide range of potential barriers to work for autistic people; poor preparation by employers, unfair hiring practices, unclear processes and outdated attitudes all play a role. From a young age, autistic people are less likely than their peers to have the time, connections or support to seek out work-related experiences and career advisors are often poorly equipped to support autistic people. This has knock-on effects for later employment prospects.   
 
-> e.5 Autistic people have far more negative experiences of interviews, group tasks and psychometric tests. Autistic jobseekers must navigate vague, generic job descriptions, ambiguous interview questions and challenging sensory environments, often with an emphasis on social skills rather than job skills. Many feel they must mask their autistic traits to succeed.  
+> e.5 Autistic people have far more negative experiences of interviews, group tasks and psychometric tests. Autistic job seekers must navigate vague, generic job descriptions, ambiguous interview questions and challenging sensory environments, often with an emphasis on social skills rather than job skills. Many feel they must mask their autistic traits to succeed.  
 
 > e.6 Even after finding work, maintaining long-term employment remains a challenge for autistic people. Many do not receive the necessary support or adjustments to enable them to fulfil their role in the face of inaccessible sensory and social environments. Many autistic adults are not aware of their legal rights around reasonable adjustments. Only around 35% of autistic employees are fully open about being autistic, with 1 in 10 not disclosing to anyone at work. For those who do disclose, the most common time to do so is after starting a job – highlighting a persistent and well-founded fear of discrimination during the recruitment process
 
@@ -119,7 +119,7 @@ There will be accommodations only relevant to the specific neurodivergent person
 
 It is important your employee fully understands what it means to be neurodiverse and live life as an autistic individual, they may adhere to stereotypical versions of people with autism and ADHD, such as Rainman, Sheldon Cooper and Bart Simpson, this may result in employers being less sympathetic towards individual who do not present appearances adhering to these stereotypes, i.e. they may not take you seriously if you do not look "autistic enough" to them.
 
-it's important you have some understanding of how your employer will react to your disclosure at being autistic, you should edcuate yourself upon the legal rights you have to ask for accommodations in your country, but you should take adequate steps to protect yourself and know what to do next if your accommodations are rejected, or agreed to but not enforced or supported by your employer.
+it's important you have some understanding of how your employer will react to your disclosure at being autistic, you should educate yourself upon the legal rights you have to ask for accommodations in your country, but you should take adequate steps to protect yourself and know what to do next if your accommodations are rejected, or agreed to but not enforced or supported by your employer.
 
 Your employers behaviour may not be fully in-line with the law of your country,  you should be aware if you do raise accommodation requests of any change in behaviour towards you that may not be positive.
 
