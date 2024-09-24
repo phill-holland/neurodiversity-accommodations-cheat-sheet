@@ -1,23 +1,26 @@
 # Interviews
 
-- [ ] Ensure all attendess to job interviews have a copy of the questions that will be asked before hand
+State statistics here. why is a job interview more difficult for the ND person?
 
-        Job interviews tend to be articifally scenerios , and often the only thing a job interview does is test to see if a person is good at job interviews, and not if they'll be suited towards the job role, neurodiverse people tend to be terrible at job interviews due to this artifical construct.
 
-        having questions published before hand allows people time to formulate appropriate answers, often a srouce of anxiety for the ND person during a job interview is the unknown, publishing and giving as much details as possible about the recruitment procress helps mitigate this.
+- [ ] Ensure all attendees to job interviews have a copy of the questions that will be asked before hand
+
+        Job interviews tend to be artificial scenarios , and often the only thing a job interview does is test to see if a person is good at job interviews, and not if they'll be suited towards the job role, neurodiverse people tend to be terrible at job interviews due to this artificial construct.
+
+        having questions published before hand allows people time to formulate appropriate answers, often a source of anxiety for the ND person during a job interview is the unknown, publishing and giving as much details as possible about the recruitment process helps mitigate this.
 
         
 - [ ] Ensure any interview tests are conducted offline
 
-        ND people often put in a large amount of effort to effectively communicate with others, often meeting the other parties more than half way and over-compensate, it can be difficult durting a job interview process to then context switch between "speaking mode" to "thinking mode" where they may have to demonstrate a techinical skill in real-time, it's important to reduce this context switching to the minimum during a job intrerview.
+        ND people often put in a large amount of effort to effectively communicate with others, often meeting the other parties more than half way and over-compensate, it can be difficult during a job interview process to then context switch between "speaking mode" to "thinking mode" where they may have to demonstrate a technical skill in real-time, it's important to reduce this context switching to the minimum during a job interview.
 
-        Again, job interview tests are often artifically created and have no bearing on real-world workflow and tasks that they'll be given.
+        Again, job interview tests are often artificially created and have no bearing on real-world workflow and tasks that they'll be given.
 
 - [ ] Consider if testing is required
 
         Seek alternative methods of proving ability, beyond the need for a test.  - maybe they have a github showing their work publish elsewhere?
 
-        A test is often created artifically and does not server the purpose to see how well a person may perform in a work environment, ensure you are not testing to see if a person is good at job interviews, and not good at performing the job role.
+        A test is often created artificially and does not server the purpose to see how well a person may perform in a work environment, ensure you are not testing to see if a person is good at job interviews, and not good at performing the job role.
 
         A test can be time consuming, and if a person already has a long career history in the industry and interviewing for a senior, it's far to assume they are already capable of what you require of them, that cannot be found out without a general chat or consultation with the persons references.
 
@@ -49,14 +52,14 @@
         Offer clarification of questions, don't be upset if somebody asks for clarifications
 
 
-- [ ] Ensure the interviewee has adequate amounts of breaks during the intreview
+- [ ] Ensure the interviewee has adequate amounts of breaks during the interview
 
         Reenforce that they can ask for breaks themselves any time they want, even if they do not ask, suggests breaks yourself.
 
 
 # In-person interviews
 
-Ideally, intervierws should be conducted remotely, if conducting in-person;
+Ideally, interviews should be conducted remotely, if conducting in-person;
 
 - [ ] Don't insist on a handshake when meeting and saying goodbye
 
@@ -66,7 +69,7 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
 
         More modern offices can have glass walls, move the candidate chair with it's back facing the glass wall to avoid distractions. 
 
-        Ideally the room sohuld be aware from distraction smells, such as kitchens and resturants.
+        Ideally the room should be aware from distraction smells, such as kitchens and restaurants.
 
 - [ ] Be aware of meeting room lighting conditions
 
@@ -86,7 +89,7 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
 
 - [ ] Don't hide details in the job advert
 
-        Such as salary, company you'll be working for.  No salary published is a red flag.  Often ND people will be under hired if they're in work at all, and will be taken advantage of, due to the prediliction towards honest during a salary negoation.
+        Such as salary, company you'll be working for.  No salary published is a red flag.  Often ND people will be under hired if they're in work at all, and will be taken advantage of, due to the predilection towards honest during a salary negotiation.
 
 - [ ] Ensure job description is specific
 
@@ -96,106 +99,48 @@ Ideally, intervierws should be conducted remotely, if conducting in-person;
 
         Don't immediately insist on a phone call after making initial contact with the potential interviewee, consider different communication preference methods, be more amenable to the person
 
-- [ ] gives detgails to accomodations for remote working for disabiilities, publish clearly and publicy
+- [ ] gives details to accommodations for remote working for disabilities, publish clearly and publicly
 
-        IF you're advertising for hyrid or office work, ensure thowse with disaibilityes will not be put off because accomdiations have not been publish and reasonable adsjustments.  **right-to-work
+        If you're advertising for hybrid or office work, ensure those with disabilities will not be put off because accommodations have not been publish and reasonable adjustments.  **right-to-work
 
 - [ ] Don't expect an immediate response
 
-        Don't discount a persons employeability by the speed at which they repsond to you, be patient, don't push with artifical deadlines.
+        Don't discount a persons employability by the speed at which they respond to you, be patient, don't push with artificial deadlines.
 
+        Often those whom are autistic are part at a disadvantage, needing extra time to decide if they want the job or not, and whether to apply or not.  Crafting the perfect response can be difficult and it takes time. 
 
 - [ ] be aware of communication preferences and differences
 
-        Some people don't like phone calls imemdiately after reaching out for a job application, most job application systyems provide initial chat messaging before moving onto to a verbal stage.
+        Some people don't like phone calls immediately after reaching out for a job application, most job application systems provide initial chat messaging before moving onto to a verbal stage.
+
+- [ ] Make application process as simple as possible
+
+        A majority of application websites have their own web forms for filling in sections of experience details, often forcing an applicant to repeat the process (some offer AI CV interpreters to help, but these rarely ever work 100% effectively)
+
+        Forcing needless repetitive work is likely to put off applications, when they've spent a lot of time formatting a well detailed CV.
+
+- [ ] Avoid generic questions such as "why do you want to work for X company?"
+
+        Often people on the spectrum are extremely honest and won't know how to answer this question, questions like this may serve no useful function and often just an open invitation to lie to all applicants regardless of neurotypes.
 
 # Advertisements
 
-- [ ] Have you published you ND working accomodations and policy onto your website?
+- [ ] Have you published you ND working accommodations and policy onto your website?
 
-        Publish what neurodiverse accomdations you are willing to make publicy, don't make people ask for them, if you have a ND policy, make it public, link it on your website  - do not make people click a checkbox, describe and prove you have already thought about the process and what support you as a company have in place for a ND employee.
+        Publish what neurodiverse accommodations you are willing to make publicly, don't make people ask for them, if you have a ND policy, make it public, link it on your website  - do not make people click a checkbox, describe and prove you have already thought about the process and what support you as a company have in place for a ND employee.
 
 - [ ] Details of the interview process are published
 
-        Including number of interview stages, and details of what hjappens at each stage, including length of each meeting stage.  Do not put excessive time demands on the person being interviewed.
+        Including number of interview stages, and details of what happens at each stage, including length of each meeting stage.  Do not put excessive time demands on the person being interviewed.
 
-// ***********
+- [ ] "desireable traits"
 
+        Often a job advertisement has desirable traits, either these are part of the job, or they are not, this is variable in-concise list subject to the whim of the hiring party, such a list makes it more difficult to understand the rules of hiring.
 
+        Consider reducing this to a single list of essential traits, make a firm decision about what you do and don't want in an employee.
 
-job interviewers
+- [ ] Be concise in job description
 
-
-job descriptions
-
-include salary, be concise
-
-specific the skilsl required concisely, do not confuse with "nice to have skills", which aren't specific enough
-to make a solid choice
-
-be detailed, do not elude to culture, be honest!! (even if you think it's bad, most likely this will help a person make a more informed decision, some people will be up-for-the-honesty)
-
-if you offer hybrid working, be specific about amount of days in the office.  do not be vague, i.e. 2 to 3 days, which is it 2 or 3 days? will the person get into trouble for attend 2 days a week?  what are expectations in reality?
-
-reasonable accomdations
-
-allow options to attend remotely, give freedom for them to turn off camera if they require it
-
-allow options for the interviewee to request breaks if required (suggest breaks are avaible at the beginning of the meeting)
-
-provide a list of questions you'll be asking before hand (allows time to prepare beforehand, allows somebody autistic to plan answers carefully and not be shocked by the unexpected) -- this does not mean a natural conversation cannot occur
-
-be patient if the person asks for clarification of your questions, consider if you have communicated what you wanted to know from them successful (see communication.md)
-
-
-if interviews have to happen in-person, ensure room is;
-
-quiet
-
-lights are adjustable
-
-frequent breaks still required (somebody is allowed to go off a find a quiet room for a bit)
-
-ensure people have fluids and drinks available to them from the start, water/drinks
-
-interviews with (technical) tests;
-
-
-tests are a source of anixety, consider how a person may communication;  talking about yourself and previous work roles is mentally intensive to the ND person, it's harder work than the average person, with the additional load asking them to context switch into a technical mindset during an already stressful situtation is very difficult, they will likely fail at this task, even if they are capable IRL of doing such things are pair programming, or mentoring, or explaining code to others (in wich they'd usually have time to themsleves to understand the code)
-
-don't assume everybody works and thinks in the same way, leave room for differences in thinking and comunication;  you may have a specific answer in mind, but might view a vastly different approach to problem solving as a negative, don't enforce the same mthodology you have upon a person to solve a problem.
-
-think about if the test is strictly nessercary;  can this information be gauged from other swources? (i.e. github, open source)  A test might not bne required if a person shows clear evidence of a long successful career in the industry, more show if they're demonstrated adaptability.
-
-can the test be performed outside of hte interview, in the interviewees own time?
-
-interview tests are entirely afritically situtations, often with poorly designed tests that only test to see if a person is any good at intgerviews, rather than performing well in a working environment
-
-often tests are desigend to show superiourity opf tghe interviewer, with brain twisters, or puzzles rather than realistic examples from the real world.  It is difficult to design a test well.
-
-
-number of interviews;
-
-reduce number of intgerviews a person may go through to the absolute minimum
-
-length of interviews;
-
-an hour, but must not exceed two hours, with options for frequent breaks (if A person does not suggest this, it's recommended you suggest this to the interviewee regardless, they may be too scared to suggest anything)
-
-Any questions at the end;
-
-give the interviewee viable and concrete ways of asking questsions after the interview has ended
-
-responses
-
-promptly give a rejection/acceptance message within a few weeks. ND people tend to be driven by anxiety and the unknown, mitigate this by being efficient and prompt if possible.
-
-
-
-
-negoiation
-
-be honest, and offer a fair salary to the person you're interviewing, the interviewee will want you to be truthful
-
-
-
+        An autistic individual will find it difficult to read in-between the lines and will avoid applying for a job if the details are not concise and if they do not match well with their skill-sets, when in reality a job may be flexible with the advertised skill-set.  
+        
+        Generic job descriptions could likely put off highly qualified individuals.
