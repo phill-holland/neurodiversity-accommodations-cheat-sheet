@@ -1,32 +1,50 @@
 # How To Communication Effectively
 
-- [ ] Avoid ambiguous language
+- [ ] Avoid ambiguous language, be concise
 
         A concise and unambiguous style of communications is often difficult to achieve, those who likely believe they are good communicators may still communicate poorly.
 
         An example may be;
+        
+        "Let's meet after lunch"        
 
-        ```
-        Let's meet after lunch 
-        ```        
+        This statement is open to interpretation and is too wide open to be concise, "after lunch" covers a large time period, did you mean literally after lunch, or during the afternoon, or at the end of day? a better way of saying this would be;
+        
+        "Is it OK to meet at 2pm?"
 
-        This statement is open to interpretation and is too wide open to be concise 
+        Specifying a time for example and asking if it's ok, which is important to give people a choice, some neurodivergent people have a tendency to people please and will say "yes" to lots of things even if it has a negative impact on themselves.
+
+        Autistic people can be very literal communicators, saying something as simple as a commonly phrase such as;
+
+        "Don't cry over split milk"
+
+        May be lost in meaning, rather than interpret this sentence as "don't get upset over something small" somebody neurodivergent might literally something looking for a patch of split milk somewhere and wondering why somebody thinks they're crying when they're clearly not.
+
+        It's important effort is made to say directly what you mean, rather than with a layer of analogies, and/or pleasantries.
+
+        Indirect hints if you are trying to express when somebody has done something wrong has also likely to be missed, other cues that you are angry such as slightly raised voice, body language could be missed.
 
 - [ ] Be happy to provide clarification when asked
 
-        Do not be offended if somebody asks several times for clarification on the same points, do not assume with communication difficulties that it's entirely the other persons fault for not understanding, communication difficulties is the responsibility of both participants in the conversation
+        Do not be offended if somebody asks several times for clarification on the same points, do not assume with communication difficulties that it's entirely the other persons fault for not understanding, communication difficulties is the responsibility of both participants in the conversation, 50/50.
+
+        When clarifying a point, try to avoid repeating the same sentence you previously said, this usually doesn't help.  Consider using alternative tools to help with communication, such as drawing diagrams on a notepad or using a whiteboard (also available in physical and online forms!).
 
 - [ ] Ask about communication preferences
 
-        Not all communication is verbal, provide alternative options, such as text only chat, email, voice only calls
+        Not all communication is verbal, provide alternative options, such as text only chat, email, voice only calls; do not enforce your communication preferences upon others and don't assume the default is a voice call, or face-to-face.
+
+        Be adaptable in the way you communicate.
 
 - [ ] Keep focussed on a single topic during a conversation
 
         Context switching is difficult, not keeping focus during a meeting increases cognitive load on the participants, be strict and maintain focus unless the topic for discussion has reached an end both parties mutually agree on.
 
-        A person with ADHD may flip between several subjects at once and potentially derail the conversation, but time and consideration still still be given to gauge if these tangent points are truly irrelevant to the conversation or building an argument to demonstrate and strengthen a point.
+        A person with ADHD may flip between several subjects at once and potentially derail the conversation, but time and consideration still must be given to gauge if these tangent points are truly irrelevant to the conversation or building an argument to demonstrate and strengthen a point.
 
--[ ] Do not insist people give you the answers to questions asked during a meeting
+        It's important is somebody often derails conversations to help assist them thoughtfully and privately, they may appreciate a polite reminder during meetings to stay focussed. 
+
+-[ ] Do not insist people give you the answers to important questions asked during a meeting
 
         Even if urgent, try to resist the urge to pressure for an answer to an issue immediately.
 
@@ -42,12 +60,11 @@
 
         "maybe I didn't quite explain that correctly" is a better phrase when confusion ensues, and then attempting to explain things in a different way (avoiding repeating again exactly what you said previous, just in a different tone) or find different ways of communicating other than verbal, for instance drawing a diagram.
 
-- [ ] Do not interrupted people mid-sentence
+- [ ] Make effort to not interrupted people mid-sentence
 
         Interruptions mid-sentence can be very disturbing, whilst neurotypical minds might be able to recover from an interruption mid-sentence it will likely be more disruptive to the neurodivergent mind, often causing them to forget their train of thought and unable to recover from the interruption.
 
         It's also important to wait for extra time to ensure a person has finished speaking before jumping in, often neurodivergent people can have different speech patterns, it might not be obvious the difference between the end of a sentence compared to a pause for thought whilst trying to formulate the next part of the sentence.
-
 
 - [ ] Give time for difference speech cadences
 
@@ -59,13 +76,9 @@
 
         Do not assume a person has finished talking if they have slightly longer delays between words than normal, avoid interrupting or ending their sentences with information they were about to divulge in due time.
 
-- [ ] Do not ask a question to a person than list optional answers
+- [ ] Do not ask a question to a person than list optional answers before they've had a chance to reply
 
-        If you're asking a question, you don't know the answer, give them space to think about hte question and provide an answer, it is not good practice to list a set of answers to your own question, literal thinkers will believe these are the only options, and none of them may be a correct answer.
-
-- [ ] Be concise
-
-        Try to avoid sentences that don't communicate any detail, or avoid cliche sayings that have hidden meaning. (I should probably elaborate on this)
+        If you're asking a question, you don't know the answer, give them space to think about the question and provide an answer, it is not good practice to list a set of answers to your own question, literal thinkers will believe these are the only options, and none of them may be a correct answer.  It gives the impression you never really wanted their answer anyway, or what they wanted was never a viable option.
 
 # Video Calls
 
@@ -95,7 +108,6 @@
 
         It's important attendees should find a quiet space free from background noise to conduct calls, failing that ideal attendees should be self aware enough to mute themselves when not talking.
 
-
 # Text Communication
 
 - [ ] Bullet Points
@@ -114,17 +126,26 @@
 
         Remove excessive words, strongly edit your text.
 
-- [ ] Dyslexic/easy to read safe font
+- [ ] Choose as easy to read safe font for all written communication
 
-        Comic Sans (for all the hate it gets) is a good font that is easier to read!  Also that other one, which emboldens beginning and end characters.
+        Certain fonts can be easier to read than others, regardless of you're neurodivegent or not.
 
-        Not just for dyslexics, this benefits everybody!
+> The good news is, many common and standard system fonts are accessible. Here are some common fonts that are generally more readable than others:
+>    - Arial
+>    - Helvetica
+>    - Tahoma
+>    - Calibri
+>    - Verdana
+>    - Times New Roman
+>    - Century Gothic
 
-        (suggest more fonts here)
+
+https://business.scope.org.uk/font-accessibility-and-readability-the-basics/
+
 
 - [ ] Avoid unnecessary small talk
 
-        It's ok to not start a message with "hello, how are you?" - if you're not wanting a detailed answer to this question, do not ask the question.  Is it ok to send a message and jump right into want you need to ask.
+        It's ok to not start a message with "hello, how are you?" - if you're not wanting a detailed answer to this question, do not ask the question.  Is it ok to send a message and jump right into want you need to ask.  Some people may feel uncomfortable without a opening sentence to a message like this, however to omit it is perfectly ok.
 
         "what's up guys?" - what does that even mean when asked in a group context?  Is the expectation everybody answers at once?
 
@@ -138,3 +159,15 @@
         Messages can be a source of anxiety and stress, often formulating exactly the correct response with all the nuance detail required is hard work, more so the more important a message may be, depending on the person asking.
 
         Respect the need for alone time! (unless urgent)
+
+
+- [ ] Voice mails may never be checked
+
+        Neurodivergent people may have avoidance issues, it might be difficult for them to listen to their voicemails.
+
+
+With the above two points, it can be difficult to suggest methods and strategies for dealing with slow message responses, it's often important to note not to take it personally, often it's not related to if they like you not, nor to force somebody to respond to you.  In fact, if a message or a person is more important to them, more time can pass when they take care and attention to formulate and write the perfect message, containing all the detail they think it'll require.
+
+Often somebody can take weeks to respond to a message, but also when they realise how long it's been, they can feel guilty about taking so long, which can also enable shame and the thought "it's too late now, this person probably hates me".
+
+It's important in this case to provide reassurance and not confront a person for being poor at messaging, a confrontation will likely make it worse.
