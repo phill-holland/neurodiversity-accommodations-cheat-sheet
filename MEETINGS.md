@@ -16,16 +16,19 @@ Have I...?
 
         Is the list of invited attendees small and concise?  Do all of those people really need to be there?  Will they contribute in any meaningful way to the outcome of the meeting?  Do they need to be aware of any decisions and outcomes of the meeting?  Can those outcomes be communicated in a different way?  Does a person need to be in attendance for the whole of the meeting?
                  
-- [ ] Scheduled the meeting with enough notice > 2 days
+- [ ] Schedule the meeting with enough notice > 2 days
 
-        Last minute meetings generate anxiety and causes people to have to change their routine without much notice generating stress, putting meeting invites for the following morning in the late afternoon or evening removes people's ability to plan their own work day without interruption.
+        Last minute meetings generate anxiety and causes people to have to change their routine without much notice generating stress, putting meeting invites with less than a days notice removes people's ability to plan their own work day without interruption.
+
+        A person with autism may struggle with the unpredictable break in routine and structure, important mechanism they use for reducing stress and anxiety, they may have already planned their days work and it could be disruptive to find a meeting in the calendar that wasn't there the day before.
     
-
 - [ ] Thought about the length of the meeting
 
-        Calendar systems often default meetings be scheduled in hourly blocks, however if you work in a meeting heavy environment with back-to-back meetings you may want to consider reducing the meeting length to 45 minutes.  Shorter meetings help keep people focused during the meeting and stick to the proposed agenda.
+        Calendar systems often default meetings be scheduled in hourly blocks, however if you work in a meeting heavy environment with back-to-back meetings you may want to consider reducing hour long meetings to 45 minutes (lots of calendar booking systems default to hourly blocks).  Shorter meetings help keep people focused during the meeting and stick to the proposed agenda.
 
-        Having breaks in-between meetings helps people unwind and prepare for the next meeting, communication with a neurodiverse brain can be incredibly energy intensive and it's important to engineer breaks in-between meetings to allow for processing and rest time. 
+        Having breaks in-between meetings helps people unwind and prepare for the next meeting, communication with a neurodiverse brain can be incredibly energy intensive and it's important to intentionally create breaks in-between meetings to allow for processing and rest time. 
+
+        With such breaks in-between supports a better quality of meeting.
 
 - [ ] Considered the time of your meeting
 
@@ -41,7 +44,6 @@ Have I...?
 
         Ideally no in-person mandatory meeting should be schedule unless there's a clear benefit that can be communicated to everybody to it's importance.  In-person meetings should be frequently challenged as to there reasoning.
 
-
 - [ ] Given the option to allow attendees to turn off their cameras
 
         Neurodivegent brains find it incredibly uncomfortable to appear in front of a camera, often focussing on themselves and any imperfection and details within their own face, they may also feel the need to "act" and keep up their mask, and avoid calming activities whilst on a call, which may be stressful to them, including needing to rock backwards and forwards, or pace to calm the anxiety and help them focus. 
@@ -50,7 +52,6 @@ Have I...?
 
         A turned off camera and muted mic doesn't mean that person is not paying attention.
 
-
 - [ ] Remembered to record the meeting and make publicly available on work slack channels
 
         To support the freedom of people choosing which meetings to attend, ideally a meeting should be recorded and then shared with the appropriate people.
@@ -58,6 +59,8 @@ Have I...?
         Some people may also be on holiday or sick and need to catch-up when they return.
 
         Do not wait for people to ask you for a copy of the recording, ensuring it has been published visibly to the appropriate people.
+
+        The appropriate people may include all those who attended the meeting, those who were invited but missed it, and anybody else who may be able to contribute further to the goal of the meeting, sharing can take place on a platform such as Slack or Microsoft Teams.
 
 - [ ] Enabled text chat options
 
@@ -73,11 +76,9 @@ Have I...?
 
         Ensure there is a mechanism for people who find it difficult to jump into an ongoing conversation to have them interrupt and contribute and join in, such as a virtual "hand up" button.
 
-        When somebody does speak, or if somebody is asked a question, give them time to formulate an answer, some people may be slower at creating sentences than others and then vocalising them.
+        When somebody does speak, or if somebody is asked a question, give them time to formulate an answer, some people may be slower at creating sentences and have unusual speech cadences, that make it difficult to determine if they have ended their sentence, it is important to be aware of this difference and support it where possible.  Try not to interrupt mid-sentence, and try not to jump in with a reply unless you are sure they have finished what they were saying.
 
-        Try not to interrupt mid-sentence, and try not to jump in with a reply unless you are sure they have finished what they were saying.
-
-        Neurodiverse mindsets put a lot of energy into speaking, they won't always be the ones to speak first and will likely be considered in their answers to questions, it's important to be patient and understanding with this, you may miss a valuable contribution if you do not control the more "vocally quick" members of the meeting.
+        Neurodiverse mindsets put a lot of energy into speaking, carefully constructing sentences with detail and trying to avoid ambiguous statements, they won't always be the ones to speak first and will likely be considered in their answers to questions, it's important to be patient and understanding with this, you may miss a valuable contribution if you do not control the more "vocally quick" members of the meeting.
 
 - [ ] Written up notes and summaries at the end of the meeting and shared publicly on work slack channels
 

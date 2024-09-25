@@ -95,6 +95,8 @@ You can be overwhelmed with a set of conflicting feelings and thoughts about whe
 
 If you are well prepared, with good resources behind you that explains adequately reasonably accommodations there is no reason why your requests should be rejected.  However it important to note that "reasonable" is highly subjective to interpretation, it's important during your requests to reduce the subjective interpretation and explaining succinctly why you need the accommodations, leaving little room for
 
+This guide is also specific to typical office environments, I don't have enough personal experience to contribute to other working environments which may be hostile to the neurodiverse (however, I'd like to research this and update this guide at a later date);  you may work in a retail shop for example, or in a factory or on a building site also need reasonable adjustments, perhaps in a environment that may be even more hostiles to your needs due to extreme social bias.
+
 ## Asking for accommodations..
 
 ..can be a daunting experience, more so for the newly diagnose who may be struggling with concepts of self advocating and self acceptance, it is difficult to gauge and judge what exactly you need when you may have also had years of denial and gaslighting to contend with and un-pick.
@@ -126,6 +128,8 @@ Your employers behaviour may not be fully in-line with the law of your country, 
 You may be in the position where you also have to be the one educating them on the subject of neurodiversity.
 
 Autism and neurodiversity understanding varies dramatically from country-to-country, it's important you use your bests judgement related to your country and work place, it's unfortunate somebody with autism for example would need to withheld a disclosure of the condition to others, but sometimes it is required to protect yourself and your interests in the best way possible. 
+
+It's an unfortunate reality in some places that I feel need to write about the risks of disclosure, even if perhaps your country of residences include legal protection against discrimination.
 
 ## Training and education
 
