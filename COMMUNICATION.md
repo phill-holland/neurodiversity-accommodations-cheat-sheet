@@ -152,7 +152,7 @@ https://business.scope.org.uk/font-accessibility-and-readability-the-basics/
 
 # Personal Comms
 
-- [ ] Text Messages May Take Days To Get Responded To, If At All
+- [ ] Text messages may take days to get responded to, if at all
 
         ND's will take a long time to respond to message, several days if ever at all.  It does not mean they do not care about you or what you have asked about.
 
