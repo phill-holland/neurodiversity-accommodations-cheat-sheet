@@ -60,7 +60,7 @@ There is a widespread lack of understanding of what an autistic individual may n
 
 > e.4 There is a wide range of potential barriers to work for autistic people; poor preparation by employers, unfair hiring practices, unclear processes and outdated attitudes all play a role. From a young age, autistic people are less likely than their peers to have the time, connections or support to seek out work-related experiences and career advisors are often poorly equipped to support autistic people. This has knock-on effects for later employment prospects.   
 
-> e.5 Autistic people have far more negative experiences of interviews, group tasks and psychometric tests. Autistic jobseekers must navigate vague, generic job descriptions, ambiguous interview questions and challenging sensory environments, often with an emphasis on social skills rather than job skills. Many feel they must mask their autistic traits to succeed.  
+> e.5 Autistic people have far more negative experiences of interviews, group tasks and psychometric tests. Autistic job seekers must navigate vague, generic job descriptions, ambiguous interview questions and challenging sensory environments, often with an emphasis on social skills rather than job skills. Many feel they must mask their autistic traits to succeed.  
 
 > e.6 Even after finding work, maintaining long-term employment remains a challenge for autistic people. Many do not receive the necessary support or adjustments to enable them to fulfil their role in the face of inaccessible sensory and social environments. Many autistic adults are not aware of their legal rights around reasonable adjustments. Only around 35% of autistic employees are fully open about being autistic, with 1 in 10 not disclosing to anyone at work. For those who do disclose, the most common time to do so is after starting a job – highlighting a persistent and well-founded fear of discrimination during the recruitment process
 
@@ -95,6 +95,8 @@ You can be overwhelmed with a set of conflicting feelings and thoughts about whe
 
 If you are well prepared, with good resources behind you that explains adequately reasonably accommodations there is no reason why your requests should be rejected.  However it important to note that "reasonable" is highly subjective to interpretation, it's important during your requests to reduce the subjective interpretation and explaining succinctly why you need the accommodations, leaving little room for
 
+This guide is also specific to typical office environments, I don't have enough personal experience to contribute to other working environments which may be hostile to the neurodiverse (however, I'd like to research this and update this guide at a later date);  you may work in a retail shop for example, or in a factory or on a building site also need reasonable adjustments, perhaps in a environment that may be even more hostiles to your needs due to extreme social bias.
+
 ## Asking for accommodations..
 
 ..can be a daunting experience, more so for the newly diagnose who may be struggling with concepts of self advocating and self acceptance, it is difficult to gauge and judge what exactly you need when you may have also had years of denial and gaslighting to contend with and un-pick.
@@ -119,13 +121,15 @@ There will be accommodations only relevant to the specific neurodivergent person
 
 It is important your employee fully understands what it means to be neurodiverse and live life as an autistic individual, they may adhere to stereotypical versions of people with autism and ADHD, such as Rainman, Sheldon Cooper and Bart Simpson, this may result in employers being less sympathetic towards individual who do not present appearances adhering to these stereotypes, i.e. they may not take you seriously if you do not look "autistic enough" to them.
 
-it's important you have some understanding of how your employer will react to your disclosure at being autistic, you should edcuate yourself upon the legal rights you have to ask for accommodations in your country, but you should take adequate steps to protect yourself and know what to do next if your accommodations are rejected, or agreed to but not enforced or supported by your employer.
+it's important you have some understanding of how your employer will react to your disclosure at being autistic, you should educate yourself upon the legal rights you have to ask for accommodations in your country, but you should take adequate steps to protect yourself and know what to do next if your accommodations are rejected, or agreed to but not enforced or supported by your employer.
 
 Your employers behaviour may not be fully in-line with the law of your country,  you should be aware if you do raise accommodation requests of any change in behaviour towards you that may not be positive.
 
 You may be in the position where you also have to be the one educating them on the subject of neurodiversity.
 
 Autism and neurodiversity understanding varies dramatically from country-to-country, it's important you use your bests judgement related to your country and work place, it's unfortunate somebody with autism for example would need to withheld a disclosure of the condition to others, but sometimes it is required to protect yourself and your interests in the best way possible. 
+
+It's an unfortunate reality in some places that I feel need to write about the risks of disclosure, even if perhaps your country of residences include legal protection against discrimination.
 
 ## Training and education
 

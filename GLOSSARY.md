@@ -38,9 +38,9 @@
 
         Previous diagnosis of autism was labelled as Asperger's, but in recent years people tend to avoid using this term due to negative associations with the doctor Hans Asperger's and his work relating to the Nazis.
 
-- Masking
+- Masking <a href="https://www.autism.org.uk/advice-and-guidance/topics/behaviour/masking">(further information)</a>
 
-        A nuerodivergent person may develop a mask, this has the function of blending in to look normal, to avoid subjugation, exclusion and bullying.
+        A nuerodivergent person may develop a mask, this has the function of blending in to look more "normal", to avoid subjugation, exclusion and bullying.
 
         An autistic person, where natural facial expressions have to be actively thought about (such as smiling), may typically they may spend a large portion of time studying other people and scripting responsible to different social situations, such as learning to smile or pull a frown at the appropriate moment depending on positive or negative news.
 
@@ -50,7 +50,7 @@
 
         An autistic person can general be exploited easier because of this, and more prone to attracting abusers.
 
-- Burnouts
+- Burnouts <a href="https://www.autism.org.uk/advice-and-guidance/professional-practice/autistic-burnout">(further information)</a>
 
         Masking all day is incredibly exhausting, this results in burnout; typically this may mean a person goes completely quiet and/or needs to recharge by cutting out all social activities and sitting in a quiet dark room.
 
@@ -62,13 +62,13 @@
 
         It's important during a meltdown not to interrupt the process or become pushy, the person should be left alone, and gently encouraged to move to a quiet/sensory room to recover.  A person should not be confronted on restrained during this process.
 
-- Stimming
+- Stimming <a href="https://www.autism.org.uk/advice-and-guidance/topics/behaviour/stimming">(further information)</a>
 
         "Self stimulating" or self soothing related activities to help with controlling anxiety.  This may include rocking backwards and forwards, flicking fingers of front of their eyes, pacing, playing with random object (elastic bands, repeatedly clicking pens) or specific stim-toys.
 
         Stimming can be an important aspect of an autistic persons day and can be a useful tool for inhibiting stress.
 
-- ABA
+- ABA <a href="https://childmind.org/article/controversy-around-applied-behavior-analysis/">(further information)</a>
 
         Applied Behaviour Analysis Therapy.  A damaging therapy applied to "treat" autistic people by negatively reenforced externally visible autistic behaviours, such as stimming activities.
 
@@ -78,8 +78,15 @@
 
 - Autism Speaks
 
-        An organisation typically frowned upon that claims to assist autistic people, but supports the use of ABA therapy.  It's board members is made up of a majority of mostly non-autistic people.
+        An organisation typically frowned upon that claims to assist autistic people, but supports the use of ABA therapy.  It's board members is made up of a majority of mostly non-autistic people, with questionable representation of the autistic community.
 
 - Gaslighting <a href="https://www.newportinstitute.com/resources/mental-health/what_is_gaslighting_abuse/">(source)</a>
 
         "Gaslighting is a form of psychological abuse or manipulation in which the abuser attempts to sow self-doubt and confusion in their victim's mind. Typically, gaslighters are seeking to gain power and control over the other person, by distorting reality and forcing them to question their own judgment and intuition."
+
+
+- PDA  <a href="https://www.autism.org.uk/advice-and-guidance/topics/behaviour/demand-avoidance">(source)</a>
+
+        Pathological Demand Avoidance
+
+        "A persistent and marked resistance to demands is a characteristic experienced by and observed in some autistic people. It can impact essential needs like eating and sleeping, and expectations such as going to school or work, and has implications for diagnosis and support. People with lived experience have suggested strategies for self-management and support."

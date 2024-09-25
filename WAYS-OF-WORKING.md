@@ -6,7 +6,7 @@
 
         Consider if core hours need to be specified at all given the type of industry and work the company operate in, if a company is more open with it's working hours and pool of potential employees a wider net of core hours may be of high benefit to the business, having people working cover a general longer working day as a group.
 
-- [ ] In-office flexibility arrival times
+- [ ] In-office flexible arrival times
 
         To avoid public transport rush hour times, which provide a stressful over stimulating experience to the neurodivergent, they can often be exhausted just from the commute, before the working day has even started.
 
@@ -42,9 +42,5 @@
 
 - [ ] Maintaining personal daily structure
 
-        Help them create structure, don't repeatedly challenge a persons structure which can cause stress, such as breaking regular routines
-
-- [ ] ADHD need a deadline
-
-        May leave things till the last minute to get motivated, be ware of this...???  help them construct their working day around imposed deadlines 
+        Help them create structure, don't repeatedly challenge a persons structure which can cause stress, such as breaking regular routines.  Do not impose structure upon a person, they must be able to create it themselves and feel in control.
 
