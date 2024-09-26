@@ -20,6 +20,7 @@ Imagine a world where a majority of people think of a red bike as the best choic
 
 Effective communication is the responsibility of all parties involved, everybody has to do their part in contributing towards a shared truth.
 
+Whilst all of this appears to be negative, often a neurodivergent due to the extra energy they put into communication may be a better communicator than the average person, being able to read and assess situations much better than other people, whilst they might be known for being blunt or saying inappropriate things it's likely they've gone to extreme lengths of thought and assessing the characters of those around them before commenting and knowing that it's safe to do so.
 
 - [ ] Avoid ambiguous language, be concise
 
