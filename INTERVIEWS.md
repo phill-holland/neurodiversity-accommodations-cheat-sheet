@@ -29,7 +29,7 @@
 
 - [ ] Consider if testing is required
 
-        Seek alternative methods of proving ability, beyond the need for a test.  - maybe they have a github showing their work publish elsewhere?
+        Seek alternative methods of proving ability, beyond the need for a test - maybe they have a github or a portfolio showing their work publish elsewhere that is evidence enough?
 
         A test is often created artificially and does not server the purpose to see how well a person may perform in a work environment, ensure you are not testing to see if a person is good at job interviews, and not good at performing the job role.
 
@@ -95,7 +95,7 @@ Ideally, interviews should be conducted remotely, if conducting in-person;
 
 - [ ] Provide detailed maps and directions to the office and interview location
 
-        Be as specific as possible, if theres a reception area be clear of this
+        Be as specific as possible, if theres a reception area be clear of this and the process to follow when arriving, names of people to ask for.
 
 # Recruiters
 
@@ -133,11 +133,17 @@ Ideally, interviews should be conducted remotely, if conducting in-person;
 
         A majority of application websites have their own web forms for filling in sections of experience details, often forcing an applicant to repeat the process (some offer AI CV interpreters to help, but these rarely ever work 100% effectively)
 
-        Forcing needless repetitive work is likely to put off applications, when they've spent a lot of time formatting a well detailed CV.
+        Forcing needless repetitive work into custom application systems is likely to put off applications, when they've spent a lot of time formatting a well detailed CV.
 
 - [ ] Avoid generic questions such as "why do you want to work for X company?"
 
         Often people on the spectrum are extremely honest and won't know how to answer this question, questions like this may serve no useful function and often just an open invitation to lie to all applicants regardless of neurotypes.
+
+- [ ] Be aware of bias in AI CV screening tools (ATS - Applicant Tracking Systems)
+
+        they may be bias against neurodivergent career histories, often they can have really strong experience but with gaps in their working history, the gaps shouldn't be viewed as a negative, nor should a long CV covering more than a couple of pages.
+
+        Attention to the visible detail you are being provided is important to assessing a neurodiverse candidate correctly.
 
 # Advertisements
 

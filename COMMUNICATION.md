@@ -1,5 +1,27 @@
 # How To Communication Effectively
 
+Because a neurodivergent person has often had a lifetime of communication difficulties with neurotypical people, communication can be particular stressful, often with a mis-communication blame is placed on them, rather than as a shared problem.
+
+Often neurotypical people can communicate in a variety of different ways& often non-literally that can be confusing if you don't understand the context, subtext, hints and body language may go unseen to a neurodivergent person.
+
+There are lots of implied gaps in the way a neurotypically person communicates that are unspoken that a neurodivergent person just won't be able to see and read, and indeed some things a person thinks they said clearly and concisely may be full of missing context and information holes.
+
+It's important to be able to review your own communication style and survey what you think you said inside your head, compared to the actual words spoken or written down. 
+
+Often a neurodivergent person has to put in extra effort to communicate more precise and accurately than perhaps a neurotypical, sometimes this can be observed with difference in speech cadence, with more gaps and pauses whilst the rest of a sentence is formulated;  it's important to respect such differences in communication and have patiences with those around you, assisting and enabling everybody to communicate their viewpoints across without being interrupted or in the worse case, ignored. 
+
+As an autistic person it is often a common experience that you may have said the answer to the problem months ago that you thought everybody else heard, only you have to wait months for everybody else to catch up, finally experiencing a colleague suggesting the same idea you did in seemingly the same way but it gaining immediate acceptance from the group.
+
+If somebody said something you didn't understand, is it because they communicated it poorly, or because you failed to interpret it correctly?  People may naturally dismiss or ignore something they did not immediately understand, rather than seek to clarify their misunderstanding.
+
+Communication problems often result when two different mindsets collide, one mindset may be working with entirely different model of reality compared to another person, imagining two totally different pictures of the same problem, both view points may be useful to enabling a higher quality of work.
+
+Imagine a world where a majority of people think of a red bike as the best choice of transport and you're that one person out of a thousand who thinks a blue car is the best choice, the blue car might be a better mode of transport than the red bike, but because the majority are only thinking of a red bike who find it difficult to think of anything else apart from the red bike, the red bike wins.
+
+Effective communication is the responsibility of all parties involved, everybody has to do their part in contributing towards a shared truth.
+
+Whilst all of this appears to be negative, often a neurodivergent due to the extra energy they put into communication may be a better communicator than the average person, being able to read and assess situations much better than other people, whilst they might be known for being blunt or saying inappropriate things it's likely they've gone to extreme lengths of thought and assessing the characters of those around them before commenting and knowing that it's safe to do so.
+
 - [ ] Avoid ambiguous language, be concise
 
         A concise and unambiguous style of communications is often difficult to achieve, those who likely believe they are good communicators may still communicate poorly.
@@ -150,7 +172,23 @@ https://business.scope.org.uk/font-accessibility-and-readability-the-basics/
         "what's up guys?" - what does that even mean when asked in a group context?  Is the expectation everybody answers at once?
 
 
+- [ ] Place less of a focus on correct spelling & grammar
+
+        If the understanding of what a person was trying to say got through poor spelling may be unimportant within a casual context.
+
+        Often a neurodivergent person can put in a lot of effort to get things correctly, repeatedly read things to themselves 5, 6 or even more times and see no error.
+
+        often can be very harsh on incorrect spelling at the expensive of bothering to acknowledge or understand what was communicated at all.
+
+        Be understanding of communication errors and friendly offer assistance rather than undermining any point they were trying to make. 
+
 # Personal Comms
+
+With the below two points, it can be difficult to suggest methods and strategies for dealing with slow message responses, it's often important to note not to take it personally, often it's not related to if they like you not, nor to force somebody to respond to you.  In fact, if a message or a person is more important to them, more time can pass when they take care and attention to formulate and write the perfect message, containing all the detail they think it'll require.
+
+Often somebody can take weeks to respond to a message, but also when they realise how long it's been, they can feel guilty about taking so long, which can also enable shame and the thought "it's too late now, this person probably hates me".
+
+It's important in this case to provide reassurance and not confront a person for being poor at messaging, a confrontation will likely make it worse.
 
 - [ ] Text messages may take days to get responded to, if at all
 
@@ -166,8 +204,3 @@ https://business.scope.org.uk/font-accessibility-and-readability-the-basics/
         Neurodivergent people may have avoidance issues, it might be difficult for them to listen to their voicemails.
 
 
-With the above two points, it can be difficult to suggest methods and strategies for dealing with slow message responses, it's often important to note not to take it personally, often it's not related to if they like you not, nor to force somebody to respond to you.  In fact, if a message or a person is more important to them, more time can pass when they take care and attention to formulate and write the perfect message, containing all the detail they think it'll require.
-
-Often somebody can take weeks to respond to a message, but also when they realise how long it's been, they can feel guilty about taking so long, which can also enable shame and the thought "it's too late now, this person probably hates me".
-
-It's important in this case to provide reassurance and not confront a person for being poor at messaging, a confrontation will likely make it worse.
