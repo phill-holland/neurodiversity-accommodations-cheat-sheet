@@ -29,7 +29,7 @@
 
 - [ ] Consider if testing is required
 
-        Seek alternative methods of proving ability, beyond the need for a test.  - maybe they have a github showing their work publish elsewhere?
+        Seek alternative methods of proving ability, beyond the need for a test - maybe they have a github or a portfolio showing their work publish elsewhere that is evidence enough?
 
         A test is often created artificially and does not server the purpose to see how well a person may perform in a work environment, ensure you are not testing to see if a person is good at job interviews, and not good at performing the job role.
 

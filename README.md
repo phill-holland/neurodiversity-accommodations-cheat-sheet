@@ -77,6 +77,8 @@ There is a widespread lack of understanding of what an autistic individual may n
 
 The neurodiverse are disabled by environment, rather than by any other factor, autism is a condition rather than a disorder, in the same way a person in a wheelchair may need a ramp instead of stairs to be self sufficient, somebody with autism also needs accommodations within the environment in order to function fully within society.
 
+<b>In many ways however, in writing this document I feel like I am just detailing good leadership and management driven by empathy that should be obvious and implemented for everybody, regardless of neurotype.</b>
+
 ## Future intent
 
 The intent of this document is to be a living document, accepting contributions from others with further ideas and suggestions for workplace accommodations.
