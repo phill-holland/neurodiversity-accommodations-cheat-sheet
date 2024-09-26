@@ -22,6 +22,10 @@ This guide lists accommodations ideas and adjustments for various aspects of emp
 
     Communication issues are rarely the fault of a single individual, but the fault of every party involved in the conversation, we should not assign blame to any person when it fails, but collectively work harder to improve communication difficulties and reach a middle ground
 
+- <a href="WAYS-OF_WORKING.md">Ways Of Working</a>
+
+    Detailing further accommodations in the workplace, that support the differences in the way people work, i.e. flexitime
+
 - <a href="presentation/Neurodiversity.pdf">Autism Presentation</a>
 
     A presentation resource on the subject of autism
@@ -40,7 +44,7 @@ This document focusses on Autism, but I may use the term neurodiverse and Autism
 
 ## Why create this? 
 
-Autistic and neurodiverse individuals are typically commonly not in employment, despite a willingness to work and having a good skill-set to offer, the workplace can be designed from a neurotypical perspective which may be hostile towards an autistic individual.
+Autistic and neurodiverse individuals are typically commonly not in employment, despite a willingness to work and having a good skill-set to offer, the workplace can be designed from a neurotypical perspective which may be hostile towards an autistic individual, making life harder and more difficult, often being overlooked for the opportunities they are qualified to do.
 
 There is a widespread lack of understanding of what an autistic individual may need to help them thrive within the work place, and also a general misunderstanding of neurodiverse conditions such as autistic and ADHD.
 
@@ -95,7 +99,7 @@ You can be overwhelmed with a set of conflicting feelings and thoughts about whe
 
 If you are well prepared, with good resources behind you that explains adequately reasonably accommodations there is no reason why your requests should be rejected.  However it important to note that "reasonable" is highly subjective to interpretation, it's important during your requests to reduce the subjective interpretation and explaining succinctly why you need the accommodations, leaving little room for
 
-This guide is also specific to typical office environments, I don't have enough personal experience to contribute to other working environments which may be hostile to the neurodiverse (however, I'd like to research this and update this guide at a later date);  you may work in a retail shop for example, or in a factory or on a building site also need reasonable adjustments, perhaps in a environment that may be even more hostiles to your needs due to extreme social bias.
+This guide is also specific to typical office environments, I don't have enough personal experience to contribute to other working environments which may be hostile to the neurodiverse (however, I'd like to research this and update this guide at a later date);  you may work in a retail shop for example, or in a factory or on a building site and you also need reasonable adjustments, perhaps in a environment that may be even more hostiles to your needs due to extreme social bias.
 
 ## Asking for accommodations..
 
@@ -105,7 +109,7 @@ Finding that confidence to self advocate for accommodations can be met with brai
 
 Information, research and knowledge here are of paramount importance, enabling you to confidently ask for adjustments, and be ready with suggestions for how accommodations might work and how they might be successfully implementation to the benefit of yourself and your employer, if you're well looked after, you are more productive, this value needs to be emphasized to your employer.
 
-It's important to keep reminding yourself as an employee that you are not asking for special treatment, you are asking for the playing field to be level, for equality. 
+It's important to keep reminding yourself as an employee that you are not asking for special treatment, you are asking for the playing field to be level, for equality, guilt can be an overriding feature when needing to ask for help, when you've been conditioned throughout your life to reject it.
 
 When asking for accommodations you're asking for the same opportunities as other employees and for the barriers to be removed to being able to spend time in the office without it being hostile to your sensory needs, being able to engage in a promotions process where the quality of your work counts for more than than your ability to socialise outside of work, and being able to reach the end of the day and not be physically and mentally exhausted to engage in personal hobbies and interests.
 

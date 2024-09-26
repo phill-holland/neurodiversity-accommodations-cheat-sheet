@@ -1,4 +1,10 @@
-# How to Schedule & host a Meeting
+# How To Schedule & Host A Meeting
+
+This is a generalised guide for managing meetings, to me this is common sense (if there is such a thing!), effective meeting management promotes structure and routine which is often an important tool for managing the neurodivergent mind, a person with autism can find establishing their own routine and structure comforting whilst a person with ADHD may need help imposing their own structure to aid focussing with work.
+
+Structure and routine are important in establishing a healthy workplace for everybody,a business that is constantly firefighting and reacting to problems immediately is a stressful environment and steps should made to correct this working culture, it is good for everybody.
+
+Taking away control from an employee and their ability to manage their own day is extreme counterproductive to most people and more so to the a person with autism, autism may also be defined as the ability to focus intensely on a single task, with repeated interruptions and distractions comes with high overhead of context switching, contributing to a persons exhausting levels, focussing on more than one thing is very distracting and potentially damaging, often leaving that person unable to do anything after work.
 
 Have I...?
 

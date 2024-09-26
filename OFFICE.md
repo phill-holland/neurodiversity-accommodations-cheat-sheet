@@ -1,6 +1,8 @@
-# Setting up your office
+# Setting Up Your Office
 
-Detailed here are features of the modern office which may need to be corrected to provide adequate accommodations, certain environments can be hostile to those with sensory sensitivities.
+Detailed here are features of the modern office which may need to be corrected to provide adequate accommodations, certain environments can be more hostile than others to those with sensory sensitivities.
+
+it is understand that not all of these accommodations might be catered for, or even denied, an open plan office for example is a difficult place to fix for certain neurodivergent people, if you're a people management it is advised that these office accommodations work in conjunction with providing hybrid or remote working options.
 
 - [ ] Avoid creating open plan spaces <a href="https://hbr.org/2019/11/the-truth-about-open-offices">(The Truth About Open Offices)</a> <a href="https://www.bi.edu/research/business-review/articles/2023/02/open-plan-offices-are-bad-for-business/">(Open Plan Offices Are Bad For Business)</a>        
 
@@ -10,9 +12,21 @@ Detailed here are features of the modern office which may need to be corrected t
 
         Typically noise travels badly in an open plan office, this is bad for those with sensory disorders relating to noise, which can be draining and make it more difficult to concentrate.
 
-        Autistic people in noisy environments may struggle to identify a single voice, and hear everything all at once, it may give the illusion they cannot hear when in reality they cannot filter out one sound from another.
+        Autistic people in noisy environments may struggle to identify a single voice, and can hear everything all at once giving the illusion they cannot hear when in reality they cannot filter out one sound from another.
 
-        Providing enclosed spaces can help, erecting temporary space separators to create micro environments, providing chairs with "wings" that surround your head are also helpful. ("privacy chairs" and "acoustic furniture")
+        Providing enclosed spaces can help, erecting temporary space separators to create micro environments, specialised furniture may help such as;
+
+        - privacy chairs (these may have "wings" that surround a persons head & ears)
+
+        - additional acoustic furniture
+
+        - carpeted areas for absorbing sounds
+
+        - erecting space separators that also help block sound
+
+        - filters for monitors to reduce glare
+
+        - privacy pods for phone calls
 
 - [ ] Allow noise cancelling headphones
 
@@ -22,7 +36,7 @@ Detailed here are features of the modern office which may need to be corrected t
 
         it should be noted though that a person should not be made to feel like they have to wear headphones 24/7 in any environment just to cope.
 
-- [ ] Avoid radios and music <a href="https://www.forbes.com/sites/benjaminlaker/2024/08/02/why-your-favorite-music-can-make-or-break-your-workday/">(Why Tou Favourite Music Can Make Or Break Your Workday)</a>
+- [ ] Avoid radios and music <a href="https://www.forbes.com/sites/benjaminlaker/2024/08/02/why-your-favorite-music-can-make-or-break-your-workday/">(Why Your Favourite Music Can Make Or Break Your Workday)</a>
 
         Having a radio on or music for the whole office to listen to should also be treated as a potential negative sensory issue, if people want to listen to music they should use headphones.
 
@@ -30,9 +44,21 @@ Detailed here are features of the modern office which may need to be corrected t
 
 - [ ] Provide quiet places of retreat (sensory rooms)
 
-        Provide sensory rooms, a place to escape to when needing to retreat from over stimulation.  They should be quiet and away from other disturbances, such as kitchen and restaurant spaces, ideally without internal windows so passers-by won't peer in from curiosity.
+        A neurodivergent person may struggle with sensory issues, such as being sensitive to any noise, it's important to realise experiencing excessive sensory issues may be painful to that person, it's important to provide a space that gives important respite to the constant onslaught of sensory input a person may experience.
 
-        The room should be clearly labelled and placed on office maps if possible, employees should be made aware of the space without having to ask explicitly.
+        Sensory issues may include unwanted;
+
+        - sounds
+
+        - smells
+
+        - visual stimuli, lights & colours
+
+        During everyday we experience all of these different sensations that we have no control over, more specifically an autistic person may be unable to filter out unwanted experiences, all forms of sensory input are treated equally within their brain, providing an often overwhelming experience, it's important to provide a space to escape from these.
+
+        Providing a room that's away from noise, poor lighting and smells (placed away from restaurants and kitchens for example) assist in the personal daily regulation a neurodivergent needs to avoid burnout, ideally without internal windows so passers-by won't peer in from curiosity.
+
+        The room should be clearly labelled and placed on office maps if possible, employees should be made aware of the space without having to ask explicitly, and should not have to declare their condition in order to be able to access the room.
 
         If possible, a meeting room could be booked out for the whole day and repurposed for this use.
 
