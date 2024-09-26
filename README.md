@@ -149,7 +149,7 @@ With such a large list of accommodations it's important to highlight the strong 
 
 - Ability to focus on a single task and explore in great detail all of aspects to a problem
 
-Often a person with autism maybe exceptional good at tasks you may think are difficult or impossible, a workplace should enable the identification of these tasks with a particular individual and give them the space to perform, rather than limit their abilities within typical working constraints, providing support to these skills is the key and part of identifying not only personal strengths, but weaknesses too.  Autistic people and the neurodiverse tend to have spiky profiles.
+Often a person with autism maybe exceptional good at tasks you may think are difficult or impossible, a workplace should enable the identification of these tasks with a particular individual and give them the space to perform, rather than limit their abilities within typical working constraints, providing support to these skills is the key and part of identifying not only personal strengths, but weaknesses too.  Autistic people and the neurodiverse tend to have spiky profiles, providing support in their weaker areas is also essential, weakness cannot be generalised but some commonalities do exist so efforts again must be made to personalise assistance.
 
 ## Training and education
 
