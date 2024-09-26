@@ -137,10 +137,24 @@ Autism and neurodiversity understanding varies dramatically from country-to-coun
 
 It's an unfortunate reality in some places that I feel need to write about the risks of disclosure, even if perhaps your country of residences include legal protection against discrimination.
 
+## Why should I hire a person with autism?
+
+With such a large list of accommodations it's important to highlight the strong advantages somebody with a different mindset can provide to a business;
+
+- Exceptional attention to detail, analytical thinkers
+
+- Innovative, providing alternative solutions to problems
+
+- Reliable and loyal
+
+- Ability to focus on a single task and explore in great detail all of aspects to a problem
+
+Often a person with autism maybe exceptional good at tasks you may think are difficult or impossible, a workplace should enable the identification of these tasks with a particular individual and give them the space to perform, rather than limit their abilities within typical working constraints, providing support to these skills is the key and part of identifying not only personal strengths, but weaknesses too.  Autistic people and the neurodiverse tend to have spiky profiles.
+
 ## Training and education
 
 It is recommended you send your employees on training course for the understanding of neurodiverse staff members, both senior and non-senior team members, all could potentially benefit from an increased understanding into the ways different people think and behave, with a need to challenge poor social stereotypes relating to conditions such as autism and ADHD.
 
 Several companies can provide coaching and training relating to this area, it is a benefit to all in encouraging understanding providing a net positive in the way your companies hires and treats it's employees.
 
-I stop short of recommending such services here as I have not had much experience with them.
+The <a href="https://www.autism.org.uk/">National Autistic Society</a> provides services to business <a href="https://www.autism.org.uk/what-we-do/employment">here</a> and courses <a href="https://www.autism.org.uk/what-we-do/autism-training-and-best-practice/training/training-in-understanding-autism-and-supportive-ap/understanding-autism-in-the-workplace">understanding autism in the workplace</a>, although I have not had direct experience with these services and therefore I am cautious about provide a direct recommendations, it is however a good starting point.
