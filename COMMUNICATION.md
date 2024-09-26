@@ -16,7 +16,7 @@ If somebody said something you didn't understand, is it because they communicate
 
 Communication problems often result when two different mindsets collide, one mindset may be working with entirely different model of reality compared to another person, imagining two totally different pictures of the same problem, both view points may be useful to enabling a higher quality of work.
 
-Imagine a world where a majority of people think of a red bike as the best choice of transport and you're that one person out of a thousand who thinks a blue car is the best choice, the blue car might be a better mode of transport than the red bike, but because the majority are only thinking of a red bike, and find it difficult to think of anything else apart from the red bike, the red bike wins.
+Imagine a world where a majority of people think of a red bike as the best choice of transport and you're that one person out of a thousand who thinks a blue car is the best choice, the blue car might be a better mode of transport than the red bike, but because the majority are only thinking of a red bike who find it difficult to think of anything else apart from the red bike, the red bike wins.
 
 Effective communication is the responsibility of all parties involved, everybody has to do their part in contributing towards a shared truth.
 
