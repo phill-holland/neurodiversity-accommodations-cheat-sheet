@@ -36,7 +36,7 @@ This guide lists accommodations ideas and adjustments for various aspects of emp
 
 ## Who am I?
 
-I am a late diagnosed autistic individual working in the technology industry as a software engineer.
+I am a late diagnosed autistic individual working in the technology industry as a software engineer in the United Kingdom.
 
 I am not a trained medical professional, nor am I a formally trained expert on neurodiversity, this list is created from personal lived experiences and personal research into the subject of neurodiversity, and more explicitly autism.
 
